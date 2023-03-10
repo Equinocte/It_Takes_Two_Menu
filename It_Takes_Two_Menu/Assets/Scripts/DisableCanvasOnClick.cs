@@ -32,4 +32,5 @@ public class DisableCanvasOnClick : MonoBehaviour
         Debug.Log("Canvas fermé");
 
     }
+
 }

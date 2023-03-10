@@ -40,5 +40,10 @@ public class CanvasMover : MonoBehaviour
     {
         buttonText.color = hoverColor;
     }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }
 
